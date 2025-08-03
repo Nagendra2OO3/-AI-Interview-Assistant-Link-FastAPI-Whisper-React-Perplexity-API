@@ -1,0 +1,2 @@
+# -AI-Interview-Assistant-Link-FastAPI-Whisper-React-Perplexity-API
+Built an AI-powered interview assistant that listens to candidate responses and generates real-time, intelligent follow-up questions. Used OpenAI’s Whisper model for accurate speech-to-text transcription and TextBlob for sentiment analysis. Integrated the Perplexity API to formulate context-aware questions based on transcribed answers.
